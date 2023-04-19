@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_assignment">
+    <dl_u_assignment action="DELETE">
+        <active>true</active>
+        <assigned_to/>
+        <assignment_group display_value="Alpha Tier1 Ops" name="Alpha Tier1 Ops">0eb4902d471261106831f8b7536d43b8</assignment_group>
+        <category>inquiry</category>
+        <cmdb_ci/>
+        <location/>
+        <order>100</order>
+        <subcategory/>
+        <sys_class_name>dl_u_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 04:51:39</sys_created_on>
+        <sys_id>ef6eb825471661106831f8b7536d4348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Assurance_Master" source="x_1001283_assura_0">9691d6182fe521107af555f62799b627</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Assurance_Master">9691d6182fe521107af555f62799b627</sys_scope>
+        <sys_update_name>dl_u_assignment_ef6eb825471661106831f8b7536d4348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 04:51:39</sys_updated_on>
+    </dl_u_assignment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Assurance_Master">9691d6182fe521107af555f62799b627</application>
+        <file_path/>
+        <instance_id>d28642ebdbe49b041ddcf22ebf9619a4</instance_id>
+        <instance_name>dev51794</instance_name>
+        <name>dl_u_assignment_ef6eb825471661106831f8b7536d4348</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_assignment"><dl_u_assignment action="INSERT_OR_UPDATE"><active>true</active><assigned_to/><assignment_group display_value="Alpha Tier1 Ops" name="Alpha Tier1 Ops">0eb4902d471261106831f8b7536d43b8</assignment_group><category>inquiry</category><cmdb_ci/><location/><order>100</order><subcategory/><sys_class_name>dl_u_assignment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 04:51:39</sys_created_on><sys_id>ef6eb825471661106831f8b7536d4348</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Assurance_Master" source="x_1001283_assura_0">9691d6182fe521107af555f62799b627</sys_package><sys_policy/><sys_scope display_value="Assurance_Master">9691d6182fe521107af555f62799b627</sys_scope><sys_update_name>dl_u_assignment_ef6eb825471661106831f8b7536d4348</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 04:51:39</sys_updated_on></dl_u_assignment></record_update>]]></payload>
+        <payload_hash>-45923220</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>335298e5471261106831f8b7536d43ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 04:51:39</sys_created_on>
+        <sys_id>53be3065471661106831f8b7536d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18797da9d620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 04:51:39</sys_updated_on>
+        <type>Assignment Data Lookup</type>
+        <update_guid>57be3065c4166110578fee805c6d4224</update_guid>
+        <update_guid_history>57be3065c4166110578fee805c6d4224:-45923220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="100">4cb101a5471661106831f8b7536d434f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 05:04:31</sys_created_on>
+        <sys_db_object display_value="" name="dl_u_assignment">dl_u_assignment</sys_db_object>
+        <sys_id>3c873c3124da44a084bed08463599169</sys_id>
+        <sys_metadata>ef6eb825471661106831f8b7536d4348</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Assurance_Master" source="x_1001283_assura_0">9691d6182fe521107af555f62799b627</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Assurance_Master">9691d6182fe521107af555f62799b627</sys_scope>
+        <sys_scope_delete display_value="">667201f86c1b4fb5bd5d67853eec3729</sys_scope_delete>
+        <sys_update_name>dl_u_assignment_ef6eb825471661106831f8b7536d4348</sys_update_name>
+        <sys_update_version display_value="dl_u_assignment_ef6eb825471661106831f8b7536d4348">53be3065471661106831f8b7536d4325</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 05:04:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
